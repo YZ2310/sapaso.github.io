@@ -1,0 +1,3 @@
+- easysolution
+  - [Einrichtung Ihres Systems](/easysolution/einrichtung.md)
+  - [Schritt für Schritt Anleitung](/easysolution/schritt-fuer-schritt-anleitung.md)
