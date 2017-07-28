@@ -1,4 +1,3 @@
-# easysolution
+# M.A.C. Centercom
 
-  1. [Einrichtung Ihres Systems](/easysolution/einrichtung.md)
-  2. [Schritt für Schritt Anleitung](/easysolution/schritt-fuer-schritt-anleitung.md)
+  1. [Schritt für Schritt Anleitung](/mac-centercom/schritt-fuer-schritt-anleitung.md)

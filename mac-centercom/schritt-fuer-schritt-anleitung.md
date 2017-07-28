@@ -7,13 +7,51 @@ Für den Upload im sapaso Portal benötigen Sie zwei Dateien:
 
 Im folgenden lernen Sie, wie Sie diese schritt für schritt erstellen:
 
+## Die Mitgliederdatei
+
+### 1. Gehe zum Menüpunkt Adressen
+
+Klicken Sie im Hauptmenü auf den Menüpunkt `Adressen`.
+
+![Menü-Punkt Adressen auswählen](mac-centercom/_media/mitgliederliste/1-menuepunkt-adressen.jpg "Menü-Punkt Abbuchen auswählen")
+
+### 2. Gehe zum Menüpunkt Tabellenansicht
+
+Klicken Sie im Adressen-Menü auf den Menüpunkt `Tabellenansicht`.
+
+![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/mitgliederliste/2-menuepunkt-tabellenansicht.jpg "Menü-Punkt Abbuchen auswählen")
+
+### 3. Studio auswählen (optional)
+
+Wählen Sie die Studios aus, für deren Mitglieder Sie einziehen wollen:  
+Klicken Sie dazu auf die drei Punkte `...` im Menüpunkt `Studio`.
+Wählen Sie nun im aufkommenden Fenster ihre Studios aus und bestätigen Sie mit `Übernehmen`.
+
+![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/mitgliederliste/3-studio-auswaehlen.jpg "Menü-Punkt Abbuchen auswählen")
+
+### 4. Wechsel zur Zeilenansicht
+
+Klicken Sie oben in der Navigationsleiste auf `Ansicht` und dann auch `Tabelle je eine Zeile`.
+
+![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/mitgliederliste/4-tabelle-je-zeile.jpg "Menü-Punkt Abbuchen auswählen")
+
+### 5. Exportieren Sie die Daten im Excel-Datei 97 - 2003 Format
+
+Klicken Sie oben in der Navigationsleiste auf `Exportieren`. Im aufkommenden Fenster:
+
+* navigieren Sie bitte zum sapaso-Ordner. Normalerweise befindet er sich auf Ihrem Desktop
+* wählen Sie als Dateiname `Mitglieder JAHR - MONAT - TAG.xls` - z.B. `Mitglieder 2017 - 07 - 26.xls`
+* wählen Sie als Dateityp `Microsoft Excel 97 - 2003 (*.xls)`
+
+![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/mitgliederliste/5-mitgliederliste-exportieren.jpg "Menü-Punkt Abbuchen auswählen")
+
 ## SEPA/Lastschrift-Datei erstellen
 
 Das erstellen der SEPA/Lastschrift-Datei funktioniert genau wie Sie es bisher gemacht haben:
 
 ### 1. Gehe zum Menüpunkt Abbuchen
 
-Klicken Sie im Hauptmenü auf den Menüpunkt `Abbuchen`
+Klicken Sie im Hauptmenü auf den Menüpunkt `Abbuchen`.
 
 ![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/sepa/1-menue-waehlen.jpg "Menü-Punkt Abbuchen auswählen")
 
