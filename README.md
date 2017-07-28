@@ -1,12 +1,19 @@
 # So übernimmt Sapaso für Sie die Beitrags-Abwicklung
 
-Um ihre Software mit sapaso zu verbinden müssen Sie nur ihre Mitgliederliste und
-die SEPA-XML Datei in unserem Portal [www.sapaso.de](https://www.sapaso.de/) hochladen.
-Wir kümmern und dann um das Einziehen der Mitgliedsbeiträge und das
-Erinnern/Mahnen/Inkasso Ihrer Mitglieder.
+Um Ihre Beiträge mit sapaso einzuziehen laden Sie sich Ihre Mitgliederdatei und Ihre Sepa-XML Datei auf Ihren Rechner. Nach erfolgreichem Download Ihrer Daten loggen Sie sich auf unserem SSL verschlüsseltem Kundenportal [www.sapaso.de](https://www.sapaso.de/) ein. In nur drei Schritten erstellen Sie hier Ihre Abrechnung. Sie können sich nun Ihre Rechnung runterladen oder ausdrucken. So haben Sie den Beleg für Ihre Buchhaltung und Sie wissen sofort mit wie viel Liquidität Sie im nächsten Abrechnungszeitraum rechnen können.
 
-Hier finden Sie Schritt für Schritt Anleitungen, wie Sie die Mitgliederliste und
-die SEPA-XML Datei erstellen.
+Wir kümmern uns nach dem Upload um den gesamten Prozess: Geldeinziehen, Mahnen, Übergabe an das Inkasse.
+Regelmäßig schicken wir Ihnen eine Liste welche Mitglieder nicht Zahlen und welche wieder gezahlt haben.
+
+Wir unterstützen jede Mitglieder-Software. Wir sind noch im Aufbau der Dokumentationen.
+Sollte ihre Software noch nicht dabei sein, kontaktieren Sie uns gerne unter https://sapaso.de/kontakt
+
+  * Schritt für Schritt Anleitung:   
+  Wie das laden der Mitgliederdatei und der Sepa-XML Datei auf ihren Rechner funktioniert
+  * Upload der Daten in unserem Kundenprozess:  
+  Den Uploadprozess finden Sie hier:   Der Upload ist für alle Mitglieder-Software arten gleich.
+  * nichtzahler
+  Wie der Umgang mit nichtzahlern funktioniert
 
 ## Mitglieder-Software
 
@@ -18,6 +25,5 @@ M.A.C. Centercom (https://mac-centercom.de/)
   * [Ersteinrichtung](/easysolution/ersteinrichtung)
   * [Schritt für Schritt Anleitung](http://localhost:3000/#/easysolution/schritt-fuer-schritt-anleitung)
 
-
-Ihr Mitglieder-Software ist nicht dabei? Schreiben Sie uns an
-[info@sapaso.de](mailto:info@sapaso.de?subject=Dokumentation der Mitglieder-Software)
+Ihr Mitglieder-Software ist noch nicht dabei? Kontaktieren Sie uns gerne:
+https://sapaso.de/kontakt
