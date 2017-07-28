@@ -1,6 +1,10 @@
+- sapaso Portal
+  - [Upload auf sapaso.de](upload.md)
 - easysolution
   - [Einrichtung Ihres Systems](/easysolution/ersteinrichtung.md)
   - [Schritt für Schritt Anleitung](/easysolution/schritt-fuer-schritt-anleitung.md)
+  - [Umgang mit Nichtzahlern](/easysolution/nichtzahler.md)
 - M.A.C. Centercom
   - [Einrichtung Ihres Systems](/mac-centercom/ersteinrichtung.md)
   - [Schritt für Schritt Anleitung](/mac-centercom/schritt-fuer-schritt-anleitung.md)
+  - [Umgang mit Nichtzahlern](/easysolution/nichtzahler.md)
