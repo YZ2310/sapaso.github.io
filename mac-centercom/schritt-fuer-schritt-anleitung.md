@@ -2,10 +2,11 @@
 
 Für den Upload im sapaso Portal benötigen Sie zwei Dateien:
 
-1. die Mitgliederdatei
-2. die SEPA/Lastschrift-Datei
+1. [Die Mitgliederdatei](#die-mitgliederdatei)
+2. [die SEPA/Lastschrift-Datei](#sepalastschrift-datei-erstellen)
 
-Im folgenden lernen Sie, wie Sie diese schritt für schritt erstellen:
+Im folgenden zeigen wir Ihnen, Schritt für Schritt, wie Sie diese Dateien in M.A.C. Centercom erstellen:  
+([Upload auf sapaso.de](upload-im-portal))
 
 ## Die Mitgliederdatei
 
@@ -47,7 +48,7 @@ Klicken Sie oben in der Navigationsleiste auf `Exportieren`. Im aufkommenden Fen
 
 ## SEPA/Lastschrift-Datei erstellen
 
-Das erstellen der SEPA/Lastschrift-Datei funktioniert genau wie Sie es bisher gemacht haben:
+Das erstellen der SEPA/Lastschrift-Datei funktioniert fast genau, wie Sie es bisher gemacht haben:
 
 ### 1. Gehe zum Menüpunkt Abbuchen
 
