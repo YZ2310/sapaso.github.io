@@ -17,7 +17,7 @@ im Untermenü auf den Punkt `Personenlisten` aus
 
 Oben bei `Personenliste` wählen Sie bitte __sapaso__ aus. (Sollte es noch keine sapaso Personenliste geben, erstellen Sie einfach eine Personenliste ohne Filter oder wenden Sie sich direkt an uns).
 
-Exportieren Sie diese Liste über den Exportieren-Knopf ![easysolution export button](easysolution/_media/mitgliederliste/1-export-icon.jpg "Exportieren-Knopf") als CSV-Datei.
+Exportieren Sie diese Mitgliederliste über den Exportieren-Knopf ![easysolution export button](easysolution/_media/mitgliederliste/1-export-icon.jpg "Exportieren-Knopf") im CSV Format.
 
 > Tipp speichern Sie die Datei unter dem Namen `Mitgliederliste Studioname Datum.csv`, z.B. `Mitgliederliste fitfitBonn 01.08.2017.csv`
 
