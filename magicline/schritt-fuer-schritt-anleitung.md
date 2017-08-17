@@ -1,11 +1,11 @@
-# M.A.C. Centercom - Schritt für Schritt Anleitung
+# magicline - Schritt für Schritt Anleitung
 
 Für den Upload im sapaso Portal benötigen Sie zwei Dateien:
 
 1. [Die Mitgliederdatei](#die-mitgliederdatei)
 2. [die SEPA/Lastschrift-Datei](#sepalastschrift-datei-erstellen)
 
-Im folgenden zeigen wir Ihnen, Schritt für Schritt, wie Sie diese Dateien in M.A.C. Centercom erstellen:  
+Im folgenden zeigen wir Ihnen, Schritt für Schritt, wie Sie diese Dateien in magicline erstellen:  
 ([Upload auf sapaso.de](upload-im-portal))
 
 ## Die Mitgliederdatei
