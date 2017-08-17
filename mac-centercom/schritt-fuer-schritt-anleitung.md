@@ -14,7 +14,7 @@ Im folgenden zeigen wir Ihnen, Schritt für Schritt, wie Sie diese Dateien in M.
 
 Klicken Sie im Hauptmenü auf den Menüpunkt `Adressen`.
 
-![Menü-Punkt Adressen auswählen](mac-centercom/_media/mitgliederliste/1-menuepunkt-adressen.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Adressen auswählen](mac-centercom/_media/mitgliederliste/1-menuepunkt-adressen.jpg "Menü-Punkt Adressen auswählen")
 
 ### 2. Gehe zum Menüpunkt Tabellenansicht
 
