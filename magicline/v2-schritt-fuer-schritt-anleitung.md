@@ -1,6 +1,6 @@
 # magicline Version 2 - Schritt für Schritt Anleitung
 
-> [Hier finden Sie die magicline Version 1 Schritt für Schritt Anleitung](/magicline/v1-schritt-fuer-schritt-anleitung)
+> [Hier finden Sie die magicline Version 1 (Desktop) Schritt für Schritt Anleitung](/magicline/v1-schritt-fuer-schritt-anleitung)
 
 Für den Upload im sapaso Portal benötigen Sie zwei Dateien:
 
@@ -29,6 +29,11 @@ Die so exportierte Excel-Liste ist ihre Mitgliederliste, die Sie bei uns hochlad
 ![magicline Mitgliederliste Exportieren](magicline/_media/v2/mitgliederliste/mitgliederliste-exportieren.jpg "Mitgliederliste Exportieren")
 
 ## SEPA/Lastschrift-Datei
+
+Klicken Sie im Hauptmenü auf `Finanzen`, dann im Untermenü `Zahlläufe`.   
+Wählen Sie aus, bis wann Sie bis zu welchem Datum Sie Forderungen einschließen wollen und an welchem `Einzugstag` wie die Forderungen einziehen sollen. Anschließend klicken Sie auf den `Vorschau & Erstellen`-Knopf und folgen den Anweisungen.
+
+Dadurch werden die SEPA/Lastschrift-Datei im XML Format erstellt. Diese laden Sie bei uns hoch - siehe [Upload auf sapaso.de](upload-im-portal)
 
 ![Menü-Punkt Personengruppen auswählen](magicline/_media/v2/sepa/sepa-liste-exportieren.jpg "Menü-Punkt Personengruppen auswählen")
 

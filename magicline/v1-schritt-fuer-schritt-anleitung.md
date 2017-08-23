@@ -1,6 +1,6 @@
 # magicline Version 1 - Schritt für Schritt Anleitung
 
-> [Hier finden Sie die magicline Version 2 Schritt für Schritt Anleitung](/magicline/v2-schritt-fuer-schritt-anleitung)
+> [Hier finden Sie die magicline Version 2 (Online) Schritt für Schritt Anleitung](/magicline/v2-schritt-fuer-schritt-anleitung)
 
 Für den Upload im sapaso Portal benötigen Sie zwei Dateien:
 
