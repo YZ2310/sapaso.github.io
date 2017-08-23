@@ -3,6 +3,7 @@
 - easysolution
   - [Schritt für Schritt Anleitung](/easysolution/schritt-fuer-schritt-anleitung.md)
 - magicline
-  - [Schritt für Schritt Anleitung](/magicline/schritt-fuer-schritt-anleitung.md)
+  - [Version 1 (Desktop)](/magicline/v1-schritt-fuer-schritt-anleitung.md)
+  - [Version 2 (Online)](/magicline/v2-schritt-fuer-schritt-anleitung.md)
 - M.A.C. Centercom
   - [Schritt für Schritt Anleitung](/mac-centercom/schritt-fuer-schritt-anleitung.md)
