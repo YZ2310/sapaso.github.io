@@ -2,6 +2,7 @@
   - [Upload auf sapaso.de](upload-im-portal)
 - Schritt für Schritt Anleitung
   - [easysolution](anleitung/easysolution.md)
+  - [intratech](anleitung/intratech.md)
   - [M.A.C. Centercom](anleitung/mac-centercom.md)
   - [Magicline v1 (Desktop)](anleitung/magicline-v1-desktop.md)
   - [Magicline v2 (Online)](anleitung/magicline-v2-online.md)
