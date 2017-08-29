@@ -2,18 +2,18 @@
 
 Um Ihre Beiträge mit sapaso einzuziehen laden Sie sich Ihre Mitgliederdatei und Ihre Sepa-XML Datei auf Ihren Rechner. Nach erfolgreichem Download Ihrer Daten loggen Sie sich auf unserem SSL verschlüsseltem Kundenportal [www.sapaso.de](https://www.sapaso.de/) ein. In nur drei Schritten erstellen Sie hier Ihre Abrechnung. Sie können sich nun Ihre Rechnung runterladen oder ausdrucken. So haben Sie den Beleg für Ihre Buchhaltung und Sie wissen sofort mit wie viel Liquidität Sie im nächsten Abrechnungszeitraum rechnen können.
 
-Wir kümmern uns nach dem Upload um den gesamten Prozess: Geldeinziehen, Mahnen, Übergabe an das Inkasse.
-Regelmäßig schicken wir Ihnen eine Liste welche Mitglieder nicht Zahlen und welche wieder gezahlt haben.
+Wir kümmern uns nach dem Upload um den gesamten Prozess: Beitragseinzug, Mahnwesen, Übergabe an das Inkasso.
+Über nichtzahlende Mitglieder werden Sie laufend informiert. Wir senden Ihnen zu Ihrer Information die Daten der säumigen Kunden.
 
 Wir unterstützen jede Mitglieder-Software. Wir sind noch im Aufbau der Dokumentationen.
 Sollte ihre Software noch nicht dabei sein, kontaktieren Sie uns gerne unter https://sapaso.de/kontakt
 
   * Schritt für Schritt Anleitung:   
-  Wie das laden der Mitgliederdatei und der Sepa-XML Datei auf ihren Rechner funktioniert
+  Wie das Laden der Mitgliederdatei und der Sepa-XML Datei auf Ihrem Rechner funktioniert
   * Upload der Daten in unserem Kundenprozess:  
-  Den Uploadprozess finden Sie hier:   Der Upload ist für alle Mitglieder-Software arten gleich.
-  * nichtzahler
-  Wie der Umgang mit nichtzahlern funktioniert
+  Den Uploadprozess finden Sie hier:   Der Upload ist für alle Mitglieder-Softwarearten gleich.
+  * Nichtzahler
+  Wie der Umgang mit Nichtzahlern funktioniert
 
 ## Mitglieder-Software
 
