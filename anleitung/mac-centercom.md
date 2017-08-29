@@ -3,7 +3,7 @@
 Für den Upload im sapaso Portal benötigen Sie zwei Dateien:
 
 1. [Die Mitgliederdatei](#die-mitgliederdatei)
-2. [die SEPA/Lastschrift-Datei](#sepalastschrift-datei-erstellen)
+2. [Die SEPA/Lastschrift-Datei](#sepalastschrift-datei)
 
 Im folgenden zeigen wir Ihnen, Schritt für Schritt, wie Sie diese Dateien in M.A.C. Centercom erstellen:  
 ([Upload auf sapaso.de](upload-im-portal))
@@ -14,13 +14,13 @@ Im folgenden zeigen wir Ihnen, Schritt für Schritt, wie Sie diese Dateien in M.
 
 Klicken Sie im Hauptmenü auf den Menüpunkt `Adressen`.
 
-![Menü-Punkt Adressen auswählen](mac-centercom/_media/mitgliederliste/1-menuepunkt-adressen.jpg "Menü-Punkt Adressen auswählen")
+![Menü-Punkt Adressen auswählen](anleitung/_media/mac-centercom/mitgliederliste/1-menuepunkt-adressen.jpg "Menü-Punkt Adressen auswählen")
 
 ### 2. Gehe zum Menüpunkt Tabellenansicht
 
 Klicken Sie im Adressen-Menü auf den Menüpunkt `Tabellenansicht`.
 
-![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/mitgliederliste/2-menuepunkt-tabellenansicht.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Abbuchen auswählen](anleitung/_media/mac-centercom/mitgliederliste/2-menuepunkt-tabellenansicht.jpg "Menü-Punkt Abbuchen auswählen")
 
 ### 3. Studio auswählen (optional)
 
@@ -28,13 +28,13 @@ Wählen Sie die Studios aus, für deren Mitglieder Sie einziehen wollen:
 Klicken Sie dazu auf die drei Punkte `...` im Menüpunkt `Studio`.
 Wählen Sie nun im aufkommenden Fenster ihre Studios aus und bestätigen Sie mit `Übernehmen`.
 
-![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/mitgliederliste/3-studio-auswaehlen.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Abbuchen auswählen](anleitung/_media/mac-centercom/mitgliederliste/3-studio-auswaehlen.jpg "Menü-Punkt Abbuchen auswählen")
 
 ### 4. Wechsel zur Zeilenansicht
 
 Klicken Sie oben in der Navigationsleiste auf `Ansicht` und dann auch `Tabelle je eine Zeile`.
 
-![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/mitgliederliste/4-tabelle-je-zeile.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Abbuchen auswählen](anleitung/_media/mac-centercom/mitgliederliste/4-tabelle-je-zeile.jpg "Menü-Punkt Abbuchen auswählen")
 
 ### 5. Exportieren Sie die Daten im Excel-Datei 97 - 2003 Format
 
@@ -44,9 +44,9 @@ Klicken Sie oben in der Navigationsleiste auf `Exportieren`. Im aufkommenden Fen
 * wählen Sie als Dateiname `Mitglieder JAHR - MONAT - TAG.xls` - z.B. `Mitglieder 2017 - 07 - 26.xls`
 * wählen Sie als Dateityp `Microsoft Excel 97 - 2003 (*.xls)`
 
-![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/mitgliederliste/5-mitgliederliste-exportieren.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Abbuchen auswählen](anleitung/_media/mac-centercom/mitgliederliste/5-mitgliederliste-exportieren.jpg "Menü-Punkt Abbuchen auswählen")
 
-## SEPA/Lastschrift-Datei erstellen
+## SEPA/Lastschrift-Datei
 
 Das erstellen der SEPA/Lastschrift-Datei funktioniert fast genau, wie Sie es bisher gemacht haben:
 
@@ -54,7 +54,7 @@ Das erstellen der SEPA/Lastschrift-Datei funktioniert fast genau, wie Sie es bis
 
 Klicken Sie im Hauptmenü auf den Menüpunkt `Abbuchen`.
 
-![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/sepa/1-menue-waehlen.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Abbuchen auswählen](anleitung/_media/mac-centercom/sepa/1-menue-waehlen.jpg "Menü-Punkt Abbuchen auswählen")
 
 ### 2. Stellen Sie die Abbuchung ein
 
@@ -73,13 +73,13 @@ Hierbei sind 5 Schritte notwendig (siehe Screenshot weiter unten):
 
 5. Starten Sie wie gewohnt den `Abbuchungslauf` und klicken Sie dann auch `Datei erstellen`
 
-![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/sepa/2-sepa-einstellungen.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Abbuchen auswählen](anleitung/_media/mac-centercom/sepa/2-sepa-einstellungen.jpg "Menü-Punkt Abbuchen auswählen")
 
 ### 3. Erstellen der SEPA/Lastschrift-Datei
 
 Tragen Sie die Daten ins Kontoblatt ein und klicken Sie anschließend auf `Lastschrift - Datei erstellen`
 
-![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/sepa/3-sepa-lastschrift-datei-erstellen.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Abbuchen auswählen](anleitung/_media/mac-centercom/sepa/3-sepa-lastschrift-datei-erstellen.jpg "Menü-Punkt Abbuchen auswählen")
 
 ### 4. Speichern der SEPA/Lastschrift-Datei
 
@@ -88,4 +88,4 @@ Speichern Sie die Datei wie gewohnt ab.
 __Unser Tipp__, wenn Sie mehrere Studios haben:  
 Benennen Sie die Datei entsprechend dem in Schritt 2 ausgewählten Studio. Z.B.: studio4.xml
 
-![Menü-Punkt Abbuchen auswählen](mac-centercom/_media/sepa/4-sepa-lastschrift-datei-speichern.jpg "Menü-Punkt Abbuchen auswählen")
+![Menü-Punkt Abbuchen auswählen](anleitung/_media/mac-centercom/sepa/4-sepa-lastschrift-datei-speichern.jpg "Menü-Punkt Abbuchen auswählen")
